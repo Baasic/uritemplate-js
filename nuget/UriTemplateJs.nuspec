@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>UriTemplateJs</id>
+        <version>$version$</version>
+        <title>JavaScript UriTemplate</title>
+        <authors>Franz X Antesberger</authors>
+        <owners>Franz X Antesberger</owners>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>An JavaScript UriTemplate implementation of rfc 6570.</description>
+        <summary />
+        <copyright>Franz X Antesberger</copyright>
+        <language>en-US</language>
+        <tags>Javascript, URI, RFC</tags>
+		<dependencies>            
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="..\bin\uritemplate.js" target="content\Scripts\uritemplate.js" />
+        <file src="..\bin\uritemplate-min.js" target="content\Scripts\uritemplate-min.js" />
+    </files>
+</package>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
