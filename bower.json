@@ -1,6 +1,6 @@
 {
   "name": "UriTemplate",
-  "version": "0.3.6",
+  "version": "0.3.7",
   "main": "bin/UriTemplate.js",
   "description": "An UriTemplate implementation of rfc 6570",
   "homepage": "https://www.github.com/fxa/uritemplate-js",
